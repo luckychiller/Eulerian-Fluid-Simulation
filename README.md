@@ -89,25 +89,12 @@ The simulation displays a grid where the density field evolves over time. Intera
 ### Sample GIFs
 
 Below are examples of the fluid simulation in action:
-#### black_and_white
-- **Initial State:**
-  ![Initial State](initial_state_BW.gif)
+- **black_and_white:**
+  ![black_and_white](black_and_white.gif)
 
-- **User Interaction:**
-  ![User Interaction](user_interaction_BW.gif)
+- **Colored**
+  ![Colored](Colored.gif)
 
-- **After User Interaction:**
-  ![After User Interaction](dynamic_flow_BW.gif)
-
-#### Colored
-- **Initial State:**
-  ![Initial State](initial_state_C.gif)
-
-- **User Interaction:**
-  ![User Interaction](user_interaction_C.gif)
-
-- **After User Interaction:**
-  ![After User Interaction](dynamic_flow_C.gif)
 
 ## License
 
